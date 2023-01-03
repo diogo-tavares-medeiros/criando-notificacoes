@@ -1,2 +1,2 @@
 # criando-notificacoes
-Criando notificações ao clicar no ícone.
+Ao clicar no ícone é gerado uma notificação como alerta.
